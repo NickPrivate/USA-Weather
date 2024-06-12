@@ -1,4 +1,4 @@
-#Personal Project: Command Line Calculator using OpenWeatherMap API
+# Command Line App using OpenWeatherMap API
 
 import requests
 from config import API_KEY, BASE_URL
